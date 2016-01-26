@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: One bedroom apartment available for short term let
-datePublished: '2016-01-26T14:57:49.370Z'
-dateModified: '2016-01-26T14:57:27.363Z'
+datePublished: '2016-01-26T16:30:22.751Z'
+dateModified: '2016-01-26T16:26:14.181Z'
 title: Smart Central London apartment
 author: []
+sourcePath: _posts/2016-01-26-smart-central-london-apartment.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-smart-central-london-apartment.md
-published: true
 url: smart-central-london-apartment/index.html
 _type: Article
 
