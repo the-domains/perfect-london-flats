@@ -1,0 +1,28 @@
+name: Perfect London Flats
+favicon: null
+layout_spectrum: 0.9011067426763475
+typography_spectrum: 0.7296247119084001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.49257984943687916
+  lightness: 0.9162254761904478
+  saturation: 0.11556925973854959
+  rhythmicContrast: 0.7885024689603597
+purpose: []
